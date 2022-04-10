@@ -1,5 +1,5 @@
 ***********************************
-### Hi there 👋
+### Hi there 🤓
 
 <!--
 **anishghimire603/anishghimire603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -58,4 +58,4 @@
 
 From [edmundcwj](https://github.com/edmundcwj)
 
-#### Hope you like what you see 🙏🏼
+#### Hope you like what you see ✌🏻
