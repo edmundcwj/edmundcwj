@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently pursuing my Bachelor of Science in Computer Science.
 
-- 🌱 I’m currently learning Full-Stack Development, AI/ML/DL, 3D modeling and IOT.
+- 🌱 I’m currently learning FPGA backend development, AI/ML/DL, database management, and project coordination.
 
 - ✌️ I’m looking to collaborate on Open-source Projects.
-
-- 💬 Ask me about Web, 3D, Ml & IOT Technologies.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
 
