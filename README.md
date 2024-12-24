@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Edmund from Malaysia.
 
-- 🔭 I’m an FPGA Software development Engineer.
+- 🔭 I’m an FPGA Software Development Engineer.
 
 - 🌱 I’m currently learning FPGA backend development, AI/ML/DL, database management, and project coordination.
 
@@ -47,7 +47,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "https://www.instagram.com/edmundcwj/" target="_blank"><img src = "https://github.com/edmundcwj/readMe_img/blob/master/instagram.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/edjet99/" target="_blank"><img src = "https://github.com/edmundcwj/readMe_img/blob/master/linkedin.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
-<a href = "https://edspersonal.netlify.app" target="_blank"><img src = "https://github.com/edmundcwj/readMe_img/blob/master/personal.svg" height= 20px width = 20px> Website </a>
+<a href = "https://edmundpersonal.netlify.app" target="_blank"><img src = "https://github.com/edmundcwj/readMe_img/blob/master/personal.svg" height= 20px width = 20px> Website </a>
 
 **Visitors Count** 
 
